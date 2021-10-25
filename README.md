@@ -4,7 +4,7 @@ Taller 28 de octubre / Platohedro
 ## Metamask 
 
 
-[Metamask](https://metamask.io/)  
+Abrir [Metamask](https://metamask.io/)  
 
 
 
@@ -16,7 +16,7 @@ Taller 28 de octubre / Platohedro
 
 ## Opensea
 
-[Opensea](https://opensea.io/)
+Crea una cuenta en [Opensea](https://opensea.io/)
 
 
 
