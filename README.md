@@ -35,6 +35,8 @@ Crea una cuenta en [Opensea](https://opensea.io/)
 
 ![create 4](./screenshots/create4.png?raw=true "Optional Title")
 
+![create 5](./screenshots/create5.png?raw=true "Optional Title")
+
 
 
 
