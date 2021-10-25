@@ -4,7 +4,7 @@ Taller 28 de octubre / Platohedro
 ## Metamask 
 
 
-[Metamask] (https://metamask.io/)  
+[Metamask](https://metamask.io/)  
 
 
 
