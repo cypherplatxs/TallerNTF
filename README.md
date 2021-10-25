@@ -1,7 +1,7 @@
 # TallerNTF
 Taller 28 de octubre / Platohedro 
 
-Lo primero que debemos de tener el archivo que vamos a mintear 
+Lo primero que debemos de tener es el archivo que vamos a mintear ya sea jpg png gif mp4 mp3 
 
 ## Metamask 
 
