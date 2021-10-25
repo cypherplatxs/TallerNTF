@@ -21,7 +21,7 @@ Que es [polygon](https://www.polygon.com/)
  
  ![polygon](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/polygon.png)
  ![coneccion](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/metamask%20conectada%20a%20chainlist.png)
- 
+ ![aprobacion](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/aprobar%20red%20hacia%20metamask.png)
  
 
 
