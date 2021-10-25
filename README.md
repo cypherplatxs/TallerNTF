@@ -1,6 +1,8 @@
 # TallerNTF
 Taller 28 de octubre / Platohedro 
 
+Lo primero que debemos de tener el archivo que vamos a mintear 
+
 ## Metamask 
 
 
