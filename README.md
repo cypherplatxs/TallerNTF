@@ -22,26 +22,13 @@ Crea una cuenta en [Opensea](https://opensea.io/)
 
 
 
-## Mintear
-
-![create 1](./screenshots/create1.png?raw=true "Optional Title")
-
-![create 2](./screenshots/create2.png?raw=true "Optional Title")
-
-![create 3](./screenshots/create3.png?raw=true "Optional Title")
-
-![create 4](./screenshots/create4.png?raw=true "Optional Title")
+## paso4
 
 
+## paso5
 
 
-
-## Listar
-
-
-## Crear colección
+## paso6
 
 
-# Añadir a colección
-
-# Regalar
+## paso7
