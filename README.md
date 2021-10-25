@@ -20,6 +20,8 @@ Que es [polygon](https://www.polygon.com/)
  conectar red a [chainlist](https://chainlist.org/) 
  
  ![polygon](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/polygon.png)
+ ![coneccion](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/metamask%20conectada%20a%20chainlist.png)
+ 
  
 
 
