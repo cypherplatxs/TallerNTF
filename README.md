@@ -42,9 +42,7 @@ Que es [polygon](https://www.polygon.com/)
 
 ## Opensea
 
-Crea una cuenta en [Opensea](https://opensea.io/)
-
-
+Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 
 
 
