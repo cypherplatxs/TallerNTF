@@ -14,6 +14,8 @@ Abrir wallet en [Metamask](https://metamask.io/)
 
 ## Polygon adherido a metamask
 
+Que es [polygon](https://www.polygon.com/)
+
  conectar red a [chainlist](https://chainlist.org/) 
 
 
