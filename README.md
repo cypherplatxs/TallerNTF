@@ -44,6 +44,8 @@ Que es [polygon](https://www.polygon.com/)
 
 Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 
+ ![wallet-opensea-metamask]()
+
 
 
 ## Mintear
