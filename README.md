@@ -6,10 +6,11 @@ Lo primero que debemos de tener es el archivo que vamos a mintear ya sea jpg png
 
 ## Metamask 
 
-al descargar metamask queda como una extencion del navegador, lo cual se debe abilitarla y posteriormente ingresar con su contraseña 
+Creamos una wallet TENER EN CUENTA LA SED O 12 PALABRAS!
+
+ agregamos metamask como una extensión del navegador 
 
 Abrir wallet en [Metamask](https://metamask.io/)  
-
 
 
 
