@@ -4,14 +4,14 @@ Taller 28 de octubre / Platohedro
 ## Metamask 
 
 
-Abrir [Metamask](https://metamask.io/)  
+Abrir wallet en [Metamask](https://metamask.io/)  
 
 
 
 
-## Polygon aderido a metamask
+## Polygon adherido a metamask
 
- []() 
+ conectar red a [chainlist](https://chainlist.org/) 
 
 
 ## Opensea
