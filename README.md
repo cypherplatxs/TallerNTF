@@ -18,6 +18,9 @@ Abrir wallet en [Metamask](https://metamask.io/)
 Que es [polygon](https://www.polygon.com/)
 
  conectar red a [chainlist](https://chainlist.org/) 
+ 
+ ![polygon](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/polygon.png)
+ 
 
 
 ## Opensea
