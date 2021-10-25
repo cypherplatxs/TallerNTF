@@ -6,6 +6,7 @@ Lo primero que debemos de tener es el archivo que vamos a mintear ya sea jpg png
 
 ## Metamask 
 
+al descargar metamask queda como una extencion del navegador, lo cual se debe abilitarla y posteriormente ingresar con su contraseña 
 
 Abrir wallet en [Metamask](https://metamask.io/)  
 
