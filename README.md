@@ -44,7 +44,7 @@ Que es [polygon](https://www.polygon.com/)
 
 Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 
- ![wallet-opensea-metamask]()
+ ![wallet-opensea-metamask](https://github.com/cypherplatxs/TallerNTF/blob/main/screenshots/opensea%20y%20metamaask.png)
 
 
 
