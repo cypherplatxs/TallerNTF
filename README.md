@@ -48,6 +48,8 @@ Crea una cuenta en [Opensea](https://opensea.io/)
 
 ![collection 1](./screenshots/collection1.png?raw=true "Optional Title")
 
+![collection 2](./screenshots/collection2.png?raw=true "Optional Title")
+
 
 # Añadir a colección
 
