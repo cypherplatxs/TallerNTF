@@ -77,6 +77,7 @@ Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 
 ![collection 4](./screenshots/collection4.png?raw=true "Optional Title")
 
+![collection 5](./screenshots/collection5.png?raw=true "Optional Title")
 
 # Añadir a colección
 
