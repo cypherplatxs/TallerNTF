@@ -66,6 +66,16 @@ Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 
 ## Listar
 
+![list 1](./screenshots/list1.png?raw=true "Optional Title")
+
+![list 2](./screenshots/list2.png?raw=true "Optional Title")
+
+![list 3](./screenshots/list3.png?raw=true "Optional Title")
+
+![list 4](./screenshots/list4.png?raw=true "Optional Title")
+
+![list 5](./screenshots/list5.png?raw=true "Optional Title")
+
 
 ## Crear colección
 
