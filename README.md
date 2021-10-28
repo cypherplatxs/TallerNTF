@@ -86,4 +86,16 @@ Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 ![collection 8](./screenshots/collection8.png?raw=true "Optional Title")
 # Añadir a colección
 
+![edit 1](./screenshots/edit1.png?raw=true "Optional Title")
+
+![edit 2](./screenshots/edit2.png?raw=true "Optional Title")
+
+![edit 3](./screenshots/edit3.png?raw=true "Optional Title")
+
+![edit 4](./screenshots/edit4.png?raw=true "Optional Title")
+
+![edit 5](./screenshots/edit5.png?raw=true "Optional Title")
+
+
+
 # Regalar
