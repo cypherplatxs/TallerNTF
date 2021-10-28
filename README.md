@@ -96,6 +96,8 @@ Con la wallet de metamask nos logeamos a [Opensea](https://opensea.io/)
 
 ![edit 5](./screenshots/edit5.png?raw=true "Optional Title")
 
-
-
 # Regalar
+
+![edit 2](./screenshots/edit2.png?raw=true "Optional Title")
+
+![edit 3](./screenshots/edit3.png?raw=true "Optional Title")
